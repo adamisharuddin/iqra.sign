@@ -1,5 +1,7 @@
 # ʿĀlam al-Arwāḥ: Animation Plan
 
+> **Superseded (11 Nov 2026).** The real plan, in the Iqra house style, is in `adamisharuddin/iqra.signs`: `episodes/sign-008/TREATMENT.md`.
+
 A 9:16 short-form animation (TikTok / Reels / Shorts), about 70 s, based on a 7-slide reference carousel about the Realm of Souls, the Primordial Covenant (al-Mīthāq), fitrah, and why humans forget.
 
 ---
