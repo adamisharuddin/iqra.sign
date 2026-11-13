@@ -65,7 +65,7 @@ Format: **1080×1920, 30 fps**. Keep text inside the TikTok safe zone (top 150 p
   3. al-Dunyā (this world) ← **"You are here"** pulses
   4. al-Barzakh (the in-between) · *23:100*
   5. al-Ākhirah (the Hereafter)
-- **Motion:** The background dims and blurs to 40%. The timeline draws in top to bottom. The camera "drops" from node 1 to node 3.
+- **Motion:** The background dims and blurs to 40%. The timeline is already fully drawn when the scene starts and fades in as a whole (no line-drawing reveal). The camera "drops" from node 1 to node 3.
 
 ### S3 · The Covenant (0:17–0:32): the centrepiece
 - **VO:** "Before any of us was born, every soul that would ever live was brought forth from the children of Adam. And Allah asked them: *Alastu bi-Rabbikum?* Am I not your Lord? And they said: *Balā, shahidnā.* Yes, we bear witness."
